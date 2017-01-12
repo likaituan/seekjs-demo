@@ -4,8 +4,8 @@
 
 seekjs.config({
     ns:{
-        "util.": "/utils/",
-        "css.": {
+        util: "/utils/",
+        css: {
             path: "/css/",
             type: ".css"
         }
