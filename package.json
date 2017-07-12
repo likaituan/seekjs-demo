@@ -1,13 +1,13 @@
 {
-  "name": "seekjs-demo",
+  "name": "seekjs-demo-basic",
   "version": "1.0.0",
   "description": "seekjs base-type demo",
   "scripts": {
-    "test": "echo seekjs-demo"
+    "test": "echo seekjs-demo-basic"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/seekjs-framework/seekjs-demo.git"
+    "url": "git+ssh://git@github.com/seekjs-framework/seekjs-demo-basic.git"
   },
   "keywords": [
     "seekjs",
@@ -17,10 +17,10 @@
   "author": "Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seekjs-framework/seekjs-demo/issues"
+    "url": "https://github.com/seekjs-framework/seekjs-demo-basic/issues"
   },
-  "homepage": "https://github.com/seekjs-framework/seekjs-demo#readme",
+  "homepage": "https://github.com/seekjs-framework/seekjs-demo-basic#readme",
   "dependencies": {
-    "seekjs": "latest"
+    "seekjs": "github:seekjs/seekjs2"
   }
 }
